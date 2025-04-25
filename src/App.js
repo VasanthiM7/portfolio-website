@@ -28,7 +28,7 @@ function Main() {
    
     <>
       <Routes>
-      <Route path='/' element={<Home />}></Route>
+      <Route path='/portfolio-website' element={<Home />}></Route>
       <Route path='/about' element={<About />}></Route>
       <Route path='/experience' element={<Experience/>}></Route>
       <Route path='/projects' element={<Projects />}></Route>

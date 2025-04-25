@@ -2,7 +2,7 @@
   "name": "portfoliowebsite",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://VasanthiM7.github.io/portfolio-website",
+  "homepage": "https://vasanthim7.github.io/portfolio-website/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",

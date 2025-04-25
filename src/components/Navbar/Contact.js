@@ -11,7 +11,6 @@ const Contact = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    // Replace with your service ID, template ID, and user ID from EmailJS
     const serviceID = 'service_72zodq5';
     const templateID = 'template_5t06upr';
     const userID = 'A7pTHtpsJ0DDP8Vs3';
@@ -22,7 +21,7 @@ const Contact = () => {
       form_message: message,
     };
 
-    // Send the email using EmailJS
+    
     emailjs.send(serviceID, templateID, templateParams, userID)
       .then((response) => {
         console.log('Success:', response);

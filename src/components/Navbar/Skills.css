@@ -1,17 +1,17 @@
 .skill-container {
   background-color: #f4f4f9;
-  min-height: 100vh; /* Make the section take full height of the screen */
+  min-height: 100vh; 
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 40px; /* Equal space around the grid */
+  padding: 40px; 
   box-sizing: border-box;
 }
 
 .skills-grid {
   display: grid;
-  grid-template-columns: repeat(3, 140px); /* 3 columns of equal card width */
-  gap: 30px; /* Equal spacing between cards on all sides */
+  grid-template-columns: repeat(3, 140px); 
+  gap: 30px; 
   justify-content: center;
 }
 

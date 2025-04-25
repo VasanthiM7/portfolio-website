@@ -64,7 +64,7 @@ const experiences = [
     ],
     tech: "HTML, CSS, JavaScript, ReactJS, Bootstrap, Node.js, AJAX, JSON, XML, Git, SVN, JIRA, Jasmine, Jenkins"
   },
-  // Add other clients similarly...
+
 ];
 
 const Experience = () => {

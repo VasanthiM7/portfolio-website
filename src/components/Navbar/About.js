@@ -25,9 +25,6 @@ const About = () => {
               <p className="edu-institution">The Sri Venkateswara University &nbsp;|&nbsp; 2016 – 2018</p>
             </div>
           </div>
-
-          {/* Add more entries if needed */}
-          {/* <div className="education-item">...</div> */}
         </div>
       </div>
     </section>

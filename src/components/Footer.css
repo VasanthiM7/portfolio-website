@@ -22,7 +22,7 @@
   .social-links {
     display: flex;
     align-items: center;
-    gap: 15px; /* controls spacing between links */
+    gap: 15px; 
   }
   
   .social-links a {
@@ -32,7 +32,7 @@
     font-size: 14px;
     display: flex;
     align-items: center;
-    gap: 5px; /* space between icon and text */
+    gap: 5px; 
     transition: color 0.3s ease;
   }
   

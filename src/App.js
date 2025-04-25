@@ -22,7 +22,7 @@ function App() {
 function Main() {
   const location = useLocation();
 
-  const isHome = location.pathname === '/' || location.pathname === '/home';
+  const isHome = location.pathname === '/portfolio-website' || location.pathname === '/home';
 
   return (
    
